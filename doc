@@ -1,0 +1,7 @@
+
+
+71f0e73d3e1072add892241b25ecdd0b
+
+https://api.openweathermap.org/data/2.5/find?lat={lat}&lon=${lon}&cnt=${cnt}&appid=71f0e73d3e1072add892241b25ecdd0b
+
+`https://api.openweathermap.org/data/2.5/find?lat=${lat}&lon=${lon}&cnt={cnt}&appid=71f0e73d3e1072add892241b25ecdd0b`
